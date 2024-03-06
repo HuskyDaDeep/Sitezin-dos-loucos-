@@ -1,1 +1,3 @@
 # Sitezin-dos-loucos-
+Um projeto que estou fazendo para desbravar o Html, css e também o JavaScrypt. Tenho a finalidade de aprender
+esse site é apenas um *Teste*. Obrigado pela atenção :)...
